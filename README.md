@@ -1,7 +1,6 @@
 # 💰 FinTrack – Personal Finance Dashboard
 
-A modern personal finance tracker built with **React, Tailwind CSS, and Recharts** that helps users manage income and expenses, analyze spending habits, and gain insights into their financial health.
-
+A modern personal finance tracker built with React, Tailwind CSS, and Recharts that helps users manage income and expenses, analyze spending habits, and visualize financial data.
 ---
 
 ## 🚀 Live Demo
@@ -14,11 +13,7 @@ https://fintrack-personal-finance-dashboard.vercel.app
 
 ## 📸 Project Preview
 
-
-
-```md
 ![FinTrack Dashboard](./fintrack-screenshot.png)
-```
 
 ---
 
