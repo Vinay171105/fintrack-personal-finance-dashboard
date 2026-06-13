@@ -17,7 +17,8 @@ https://fintrack-personal-finance-dashboard.vercel.app
 
 
 ```md
-![FinTrack Dashboard](./screenshot.png)
+![FinTrack Dashboard]<img width="1888" height="2394" alt="screenshot" src="https://github.com/user-attachments/assets/b19090ae-56a3-4971-bd03-7f16f4811651" />
+
 ```
 
 ---
