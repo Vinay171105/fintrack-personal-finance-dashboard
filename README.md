@@ -6,15 +6,15 @@ A modern personal finance tracker built with **React, Tailwind CSS, and Recharts
 
 ## 🚀 Live Demo
 
-Add your deployed Vercel link here:
 
-https://your-app.vercel.app
+
+https://fintrack-personal-finance-dashboard.vercel.app
 
 ---
 
 ## 📸 Project Preview
 
-Add a screenshot of your dashboard here.
+
 
 ```md
 ![FinTrack Dashboard](./screenshot.png)
@@ -172,7 +172,7 @@ npm run build
 
 **Kokanti Vinay**
 
-Aspiring Software Engineer | Data Analyst | React Developer
+Aspiring Software Engineer | React Developer
 
 GitHub: https://github.com/Vinay171105
 
