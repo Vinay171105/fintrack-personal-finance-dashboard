@@ -15,7 +15,7 @@ function App() {
   const [category, setCategory] = useState("");
   const [type, setType] = useState("Income");
   const [date, setDate] = useState(
-    new Date().toISOString().split("T")[0]
+    new Date().toLocaleDateString("en-CA")
   );
   const [note, setNote] = useState("");
 
