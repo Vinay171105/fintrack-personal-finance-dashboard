@@ -17,8 +17,7 @@ https://fintrack-personal-finance-dashboard.vercel.app
 
 
 ```md
-![FinTrack Dashboard](https://github.com/user-attachments/assets/b19090ae-56a3-4971-bd03-7f16f4811651)
-
+![FinTrack Dashboard](./fintrack-screenshot.png)
 ```
 
 ---
